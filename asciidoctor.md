@@ -167,7 +167,8 @@ This command generates a pdf example.pdf in the same directory as of example.ado
 
 Create a theme file (my-theme.yml) to customize the look of your PDF:
 
-![Image Description](https://tinyurl.com/4bpe9xwp "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image5.png)
+
 
 
 Fig 5: Showing sample of a theme that can be applied to an asciidoc document.
