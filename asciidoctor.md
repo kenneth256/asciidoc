@@ -288,7 +288,8 @@ On successful installation, the maven version is displayed or else run setup pro
 
 6. Open your IntelliJ IDE, and go to the File > New > Project as shown in the below image.
 
-![Image Description](https://tinyurl.com/mrzze5t6 "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image7.png)
+
 
 Fig 7: shows how to create a maven project
 
