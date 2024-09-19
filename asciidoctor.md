@@ -185,7 +185,7 @@ asciidoctor-pdf -r asciidoctor-pdf -a pdf-theme=my-theme.yml example.adoc
 
 **Note**: The -a pdf-theme=my-theme.yml option applies a custom theme to the PDF output, controlling the document's appearance.
 
-<h4>**Asciidoctor Syntax Highlighter**</h4>
+**<h4>Asciidoctor Syntax Highlighter</h4>**
 
 
 Asciidoctor supports syntax highlighting for code blocks, making code snippets easier to read.
