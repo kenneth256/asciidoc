@@ -660,7 +660,7 @@ Fig 17: shows pom.xm/ setup for asciidoctor maven project
 3.Create your AsciiDoc file in src/docs/asciidoc/document.adoc  as below;
 
 
-
+```
 === Lists
 AsciiDoc supports both ordered and unordered lists:
 * Unordered list item 1
@@ -683,7 +683,7 @@ You can include code blocks with syntax highlighting:
 def hello_world():
 	print("Hello, World!")
 ----
-
+```
 
 
 Fig 18: shows asciidoc document for mave project
