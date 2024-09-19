@@ -700,4 +700,3 @@ mvn generate-resources
 
 == Conclusion
 AsciiDoc is a powerful and flexible markup language that allows you to write complex documents with ease. Whether you're writing technical documentation, a book, or an article, AsciiDoc has the tools you need to create beautiful and functional content.
-```
