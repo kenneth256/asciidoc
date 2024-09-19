@@ -408,7 +408,7 @@ It supports many AsciiDoc features. So, you can render documents with capabiliti
 
 You can include Asciidoctor.js in your web pages with a <script> tag. Or, install it via npm for Node.js applications.
 
-**In a Web Browser: **
+**In a Web Browser:**
 
 Include the Asciidoctor js library via a <script> tag or a package manager like npm. 
 
