@@ -340,7 +340,7 @@ Fig 10:  Shows main.java class
 ![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image11.png)
 
 
-Fig 11: shows how to addsciidoctorJ, to pom.xml file
+Fig 11: shows how to add asciidoctorJ, to pom.xml file
 
 To read more about the maven file POM.xml and the tags used, visit [maven-pom-xml](https://www.javatpoint.com/maven-pom-xml).
 
@@ -416,7 +416,8 @@ Include the Asciidoctor js library via a <script> tag or a package manager like 
 
 Include Asciidoctor.js directly from a CDN as shown below:
 
-![Image Description](https://tinyurl.com/bdbtt3m6 "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image13.png)
+
 
 
 Fig 13: Shows how to include asciidoctor.js in document using Cdn
