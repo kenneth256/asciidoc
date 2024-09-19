@@ -108,8 +108,6 @@ asciidoctor -r asciidoctor-diagram your_document.adoc
 ```
 
 
-
-![Image Description](https://shorturl.at/A2VaW "Tooltip text")
 ![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image3.png)
 
 
@@ -147,7 +145,8 @@ gem install prawn prawn-table prawn-iconv
 1. Create an AsciiDoc Document as below:
 
 
-![Image Description](https://shorturl.at/0YjTL "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image4.png)
+
 
 
 Fig 4: Shows a sample AsciiDoc file example.adoc
