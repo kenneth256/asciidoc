@@ -70,7 +70,8 @@ npx asciidoctor --version
 Running the command above, on successful installation of asciidoctor, the follow message is displayed in terminal indicating the version of asciidoctor installed.
 
 
-![Description of the image](https://shorturl.at/ja2XB "Tooltip text")
+<!-- ![Description of the image](https://shorturl.at/ja2XB "Tooltip text") -->
+   image::https://raw.githubusercontent.com/kenneth256/mardown/master/image1.png[Alt text]
 
 
 Fig 1: Shows version of asciidoctor installed.
