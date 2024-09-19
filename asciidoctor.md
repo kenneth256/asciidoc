@@ -306,7 +306,7 @@ Fig 7: shows how to create a maven project
 11. Choose the JDK you want to use
 
 
-    ![Image Description](https://tinyurl.com/mrzze5t6 "Tooltip text")
+![Image Description](https://tinyurl.com/mrzze5t6 "Tooltip text")
 
 
 fig 8: shows how to setup maven project.
