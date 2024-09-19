@@ -71,8 +71,7 @@ Running the command above, on successful installation of asciidoctor, the follow
 
 
 <!-- ![Description of the image](https://shorturl.at/ja2XB "Tooltip text") -->
-   image::https://raw.githubusercontent.com/kenneth256/mardown/master/image1.png[Alt text]
-
+image::https://raw.githubusercontent.com/kenneth256/mardown/master/image1.png[Alt text]
 
 Fig 1: Shows version of asciidoctor installed.
 
@@ -439,7 +438,7 @@ Fig 14: shows the output of running the above document in a browser.
 mkdir asciidoctor-project
 ```
 
-The command aboves creates a new folder asciidoctor-project, that will be the projects’s directory.
+The command aboves creates a new folder asciidoctor-project, that will be the projects's directory.
 
 2.  Navigate into the directory by running the command below in your command terminal: 
 
@@ -457,7 +456,7 @@ npm init -y
 ```
 
 
-4. Install Asciidoctor if you haven’t by using the terminal command below:
+4. Install Asciidoctor if you haven't by using the terminal command below:
 
 
 ```
@@ -577,7 +576,7 @@ Fig 17: shows setup for asciidoc  project conversion using maven plugin
 1. Ensure your AsciiDoc file (e.g., README.adoc)  is in the root directory of your project.
 
 
-    ‘
+    '
 
 3. Execute the Maven command to convert the AsciiDoc to HTML5
 
