@@ -71,7 +71,9 @@ Running the command above, on successful installation of asciidoctor, the follow
 
 
 <!-- ![Description of the image](https://shorturl.at/ja2XB "Tooltip text") -->
-image::https://raw.githubusercontent.com/kenneth256/mardown/master/image1.png[Alt text]
+![Alt text](https://raw.githubusercontent.com/kenneth256/mardown/master/image1.png)
+
+
 
 Fig 1: Shows version of asciidoctor installed.
 
