@@ -337,7 +337,8 @@ Fig 10:  Shows main.java class
 14. Add AsciidoctorJ as a dependency in your pom.xml file as below:
 
 
-![Image Description](https://tinyurl.com/3fzrv5ww "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image11.png)
+
 
 Fig 11: shows how to addsciidoctorJ, to pom.xml file
 
