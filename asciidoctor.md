@@ -661,7 +661,7 @@ Fig 21: shows pom.xm/ setup for asciidoctor maven project
 
 
 ```
-=== Lists===
+<strong> Lists </strong>
 AsciiDoc supports both ordered and unordered lists:
 * Unordered list item 1
 * Unordered list item 2
@@ -670,13 +670,13 @@ AsciiDoc supports both ordered and unordered lists:
 . Ordered list item 2
   .. Sub-item 1
   .. Sub-item 2
-=== Links ===
+<strong> Links </strong>
 Here is a link to the official AsciiDoc website:
 http://asciidoc.org[AsciiDoc]
-=== Images ===
+<strong> Images </strong>
 You can include images in your document
 image::path/to/image.png[An example image]
-=== Code Blocks ===
+<strong> Code Blocks </strong>
 You can include code blocks with syntax highlighting:
 [source, python]
 ----
