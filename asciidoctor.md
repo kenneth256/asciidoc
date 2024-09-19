@@ -315,11 +315,12 @@ fig 8: shows how to setup maven project.
 13. After creating the project, you can see two default files created, pom.xml file and Main.java class
 
 
-    **Pom.xml**
+ **Pom.xml**
 
 
     
-![Image Description](https://tinyurl.com/kspvj8af "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image9.png)
+
 
 
 Fig 9: shows Pom.xml
