@@ -70,7 +70,6 @@ npx asciidoctor --version
 Running the command above, on successful installation of asciidoctor, the follow message is displayed in terminal indicating the version of asciidoctor installed.
 
 
-<!-- ![Description of the image](https://shorturl.at/ja2XB "Tooltip text") -->
 ![Alt text](https://raw.githubusercontent.com/kenneth256/mardown/master/image1.png)
 
 
@@ -96,7 +95,9 @@ gem install asciidoctor-diagram
 2. Set Up Your AsciiDoc Document:
 
 
-![Image Description](https://shorturl.at/mMDl4 "Tooltip text")
+<!-- ![Image Description](https://shorturl.at/mMDl4 "Tooltip text") -->
+![Alt text](https://raw.githubusercontent.com/kenneth256/mardown/master/image2.png)
+
 
 
 Fig 2: shows a sample set up of an asciidoctor document.
