@@ -661,7 +661,7 @@ Fig 21: shows pom.xm/ setup for asciidoctor maven project
 
 
 ```
-=== Lists
+=== Lists===
 AsciiDoc supports both ordered and unordered lists:
 * Unordered list item 1
 * Unordered list item 2
@@ -670,13 +670,13 @@ AsciiDoc supports both ordered and unordered lists:
 . Ordered list item 2
   .. Sub-item 1
   .. Sub-item 2
-=== Links
+=== Links ===
 Here is a link to the official AsciiDoc website:
 http://asciidoc.org[AsciiDoc]
-=== Images
+=== Images ===
 You can include images in your document
 image::path/to/image.png[An example image]
-=== Code Blocks
+=== Code Blocks ===
 You can include code blocks with syntax highlighting:
 [source, python]
 ----
@@ -698,6 +698,5 @@ mvn generate-resources
 
 5.The DocBook file is  generated in target/generated-docs/document.xml.
 
-== Conclusion
+==Conclusion==
 AsciiDoc is a powerful and flexible markup language that allows you to write complex documents with ease. Whether you're writing technical documentation, a book, or an article, AsciiDoc has the tools you need to create beautiful and functional content.
-==
