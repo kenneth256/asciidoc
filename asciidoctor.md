@@ -195,7 +195,8 @@ To highlight, set the code block to a specific language.
 For example, the snippet below specifies language as python and so on running the document the code block will be highlighted in python theme
 
 
-![alt_text](images/image6.png "image_tooltip")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image6.png)
+
 
 
 Fig 6: Showing how to set Python language for specific code block.
