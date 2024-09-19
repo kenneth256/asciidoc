@@ -506,7 +506,8 @@ The HTML file opens in a browser and makes use google web fonts which can be opt
 
 1.Create  a file with .adoc extension or navigate into the directory contain the document file.
     
-![Image Description](https://tinyurl.com/4ew783cj "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image16.png)
+
 
 Fig 16: shows an asciidoc file
 
@@ -578,7 +579,7 @@ You can convert a document into HTML5 using Asciidoctor Maven plugin by followin
 
 1. Include the Asciidoctor Maven Plugin in your `pom.xml` file: 
 
-![Image Description](https://tinyurl.com/mr3djnbd "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image17.png)
 
 Fig 17: shows setup for asciidoc  project conversion using maven plugin
 
@@ -611,8 +612,7 @@ To convert asciidoc file to a DocBook follow the steps below:
 
 1.Create a file named example.adoc with your AsciiDoc content. For example:
 
-
-![Image Description](https://tinyurl.com/2mhehbdz "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image18.png)
 
 
 Fig 18: shows a sample asciidoc document
@@ -629,7 +629,7 @@ The above command generates,example.xml file in DocBook 5 format in the same  di
 
 3. Open example.xml to check the DocBook output. It should look something like this:
 
-![Image Description](https://tinyurl.com/245aa5et "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image19.png)
 
 Fig 19: shows content of  example.xml 
 
