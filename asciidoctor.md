@@ -642,8 +642,8 @@ To convert AsciiDoc to DocBook using Maven, configure the Asciidoctor Maven Plug
 
 1. Set up your Maven project structure
 
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image20.png)
 
-![alt_text](images/image20.png "image_tooltip")
 Fig 20: shows the structural setup of  a mave project.
 
 2.Edit your pom.xml file to include the Asciidoctor Maven Plugin:
@@ -655,7 +655,7 @@ Fig 20: shows the structural setup of  a mave project.
 ```
 
 
-Fig 17: shows pom.xm/ setup for asciidoctor maven project
+Fig 21: shows pom.xm/ setup for asciidoctor maven project
 
 3.Create your AsciiDoc file in src/docs/asciidoc/document.adoc  as below;
 
@@ -686,7 +686,7 @@ def hello_world():
 ```
 
 
-Fig 18: shows asciidoc document for mave project
+Fig 22: shows asciidoc document for mave project
 
 4.Open a terminal, navigate to your project directory, and run the command terminal below:
 
