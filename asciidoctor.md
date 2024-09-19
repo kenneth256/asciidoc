@@ -434,7 +434,7 @@ The resulting HTML is displayed in the <div> with the id "content."
 
 When the file is opened in browser, it displays;
 
-![Image Description](https://tinyurl.com/3m2w9nm8 "Tooltip text")
+![Image Description](https://raw.githubusercontent.com/kenneth256/mardown/master/image14.png)
 
 Fig 14: shows the output of running the above document in a browser.
 
