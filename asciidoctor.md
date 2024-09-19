@@ -1,17 +1,17 @@
-<h3>**Converting Your Document**</h3>
+**Converting Your Document**
 
 
-<h3>**Asciidoctor**</h3>
+**Asciidoctor**
 
 
 Asciidoctor is a versatile, open-source tool. It converts AsciiDoc content into various formats. It converts AsciiDoc files into a structured document model. This enables easy conversion to HTML5, DocBook 5, man pages, PDF, EPUB3, and more. Originally written in Ruby, Asciidoctor is not restricted to Ruby environments. You can also run Asciidoctor using a JVM with AsciidoctorJ. Or, use Asciidoctor.js in JavaScript environments. This versatility makes it adaptable to different development ecosystems.
 
-<h3>** Installation**</h3>
+** Installation**
 
 
 To install Asciidoctor, follow these steps based on your preferred setup method and environment.
 
-<h4>**I. Using RubyGems (Recomended)**</h4>
+**I. Using RubyGems (Recomended)**
 
 
 **Prerequisites**:
@@ -40,7 +40,7 @@ asciidoctor --version
 
 You should see the version of asciidoctor you have installed in the terminal.
 
-<h4>**II. Using Asciidoctor.js for Node.js Users**</h4>
+**II. Using Asciidoctor.js for Node.js Users**
 
 
 To use Asciidoctor in Javascript, follow the steps below:
